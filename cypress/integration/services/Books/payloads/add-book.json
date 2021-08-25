@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "title": "Livro Teste - Jefferson",
+    "description": "Testando a requisição POST dos livros.",
+    "pageCount": 0,
+    "excerpt": "string",
+    "publishDate": "2021-08-25T12:27:03.208Z"
+  }
